@@ -1,5 +1,5 @@
 {
-  "name": "webpack_bundle",
+  "name": "GitHub",
   "version": "1.0.0",
   "description": "Создаем репозиторий на GitHub с двумя файлами\r .gitignore\r MIT License\r Клонируем репозиторий проекта на локальный компьютер, командой:\r git clone url_repo\r в консоли Git Bash, открытой в отведенной папке или диске на вашем компьютере\r Заходим внутрь клонированного репозитория, командой:\r cd repo_name\r в консоли Git Bash\r Открываем папку проекта в редакторе кода VSCode, командой:\r code .\r Открываем TERMINAL в редакторе кода VSCode (внизу окна редактора)\r Инициализируем (создаем) файл package.json в нашем проекте, командой:\r npm init -y\r в TERMINAL - слева в структуре проекта должен появится файл package.json\r Устанавливаем пакеты Webpack через TERMINAL, командой:\r npm install --save-dev webpack webpack-cli",
   "main": "index.js",
